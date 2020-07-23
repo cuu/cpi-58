@@ -1,4 +1,4 @@
-STM32duino thermal printer
+STM32duino thermal printer filter for cups 
 
 Clockworkpi CPI-58 (grayscale)
 
